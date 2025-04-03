@@ -1,2 +1,19 @@
-# Mkombozi-wa-Siku
-Breakfast Buddy is a mobile app that recommends breakfast options based on your nutritional goals. It suggests meals tailored to your caloric, protein, and fat needs, helping you start the day with the right balance. Whether boosting energy, building muscle, or staying healthy, Breakfast Buddy has you covered.
+# mkombozi_wa_siku
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
+https://www.youtube.com/watch?v=D4nhaszNW4o
