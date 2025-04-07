@@ -23,15 +23,28 @@ class HomePage extends StatelessWidget {
         elevation: 0.0,
         leading: Container(
           margin: EdgeInsets.all(10),
-          child: SvgPicture.asset(
+          child: Image.asset(
             'assets/icons/back.png',
-            // color: Colors.black,
-          ),
+            height: 20,
+            width: 20,),
           decoration: BoxDecoration(
-            color: Colors.black,
+            color: Color(0xffF7F8F8),
             borderRadius: BorderRadius.circular(10),
           ),
         ),
+        actions: [
+          Container(
+            margin: EdgeInsets.all(10),
+            child: Image.asset(
+              'assets/icons/more.png',
+              height: 20,
+              width: 20,),
+            decoration: BoxDecoration(
+              color: Color(0xffF7F8F8),
+              borderRadius: BorderRadius.circular(10),
+            ),
+          ),
+        ],
         ),
     );
   }
